@@ -8,6 +8,8 @@
  JavaScript
  
  ReactJS
+
+ TypeScript
  
  Git e Github 
  
